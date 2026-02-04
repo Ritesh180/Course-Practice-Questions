@@ -1,0 +1,68 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    font-family: "Poppins", serif;
+}
+
+.main_box{
+    background-image: url("photo.jpg");
+    height:100vh;
+    background-size: cover;
+}
+
+.btn_one{
+    color: white;
+    font-size: 30px;
+    font-weight: 700;
+    position: absolute;
+    left: 16px;
+    line-height: 60px;
+    display: none;
+}
+
+.sidebar_menu{
+    position: fixed;
+    /* left: -350px; */
+    
+    background-color: rgb(255,255,255,0.1);
+    box-shadow:0 0 6px rgb(255,255,255,1.1);
+}
+
+.sidebar_menu i,a{
+    color: white;
+    text-decoration: none;
+    padding: 10px;
+    margin: 10px;
+    font-size: 1.3em;
+
+}
+
+.menu{
+    height: 100vh;
+    width: 300px;
+}
+.logo{
+    position: absolute;
+    margin: 10px;
+    left: 30px;
+    padding: 10px;
+    box-shadow: 0 0 6px rgba(255,255,255,1.1);
+}
+
+.btn_two{
+    position: absolute;
+    left: 245px;
+    top: 7px;
+}
+
+
+.menu {
+    position: absolute;
+    top: 60px;
+}
+
+.social_media{
+    position: absolute;
+    bottom: 10px;
+    display: inline-block
+}

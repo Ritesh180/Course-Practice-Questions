@@ -1,0 +1,31 @@
+.meandiv{
+    height: 200px;
+    width: 70px;
+    border: 2px solid black;
+}    
+
+#light1{
+    height: 50px;
+    width: 50px;
+    margin: 10px;
+    border: 2px solid black;
+    background-color: red;
+    border-radius: 50%;
+}
+
+#light2{
+    height: 50px;
+    width: 50px;
+    margin: 10px;
+    border: 2px solid black;
+    background-color: yellow;
+    border-radius: 50%;
+}
+#light3{
+    height: 50px;
+    width: 50px;
+    margin: 10px;
+    border: 2px solid black;
+    background-color:green;
+    border-radius: 50%;
+}

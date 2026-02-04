@@ -1,0 +1,13 @@
+/* #myid p{
+    color: green;
+}
+
+#myid span {
+    color: red;
+}
+ */
+
+
+input[type="radio"]:checked + label {
+    color: darkblue; 
+}
